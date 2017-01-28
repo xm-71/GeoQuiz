@@ -13,4 +13,12 @@
     <string name="question_asia">Lake Baika is the world\'s oldest and deepest freashwater lake.</string>
     <color name="carrot">#e67e22</color>
     <color name="peter_river">#3498db</color>
+
+//second xml file
+    
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text_view">Are you sure you want to do this?</string>
+
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
 </resources>
